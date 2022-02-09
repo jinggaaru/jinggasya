@@ -12,6 +12,9 @@
     <font color="red">Merubah Font Bewarna merah, dengan nama warna</font>
     <br>
     <font color="#FF0000">Merubah Font Bewarna merah, dengan Nilai Heksadesimal</font>
-    
+    <p style="text-indent: 45px;">Contoh ini baris pertama yang ditulis masuk ke
+        dalam.
+        Baris kedua tetap ditulis seperti biasa. Dan juga baris
+        Ke-3 ditulis seperti biasa.</p>
 </body>
 </html>
